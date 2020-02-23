@@ -1,6 +1,6 @@
 # Classcroute Puppeteer
 
-###You didn't prepare food and are to busy to order ?
+You didn't prepare food and are to busy to order ?
 No worries ! This bot will do all the work for you. Just make sure you have the money required to pay the delivery.
 
 ## Variable Configurations
