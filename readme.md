@@ -27,4 +27,4 @@ TIME_OF_DELIVERY will match 12h15, 12h30 and 12h45.
 I used a library name Puppeteer to control a headless browser.
 
 ## Disable security measure
-You have to set CAN_BUY to true in order to let the script order to food.
+You have to set CAN_BUY to true in order to let the script order food.
